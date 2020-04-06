@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-06T22:50:43.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="KGBa-meaGEge0gzPJopK" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-06T22:52:31.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="3FVAU6LVlp5FadHWbcAh" version="12.9.5" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="786" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,8 +53,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="263" y="480" />
-              <mxPoint x="263" y="680" />
-              <mxPoint x="243" y="680" />
+              <mxPoint x="263" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,7 +64,7 @@
           <mxGeometry x="93" y="377.5" width="150" height="175" as="geometry" />
         </mxCell>
         <mxCell id="WbOcBk4rOMOH6EZoIpOP-124" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;EBook&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Ebook ID&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Instructional category (&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&amp;nbsp; language, math etc.)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Content (graphics,&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&amp;nbsp; audio, video)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Pages and texts&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="83" y="650" width="150" height="120" as="geometry" />
+          <mxGeometry x="83" y="570" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WbOcBk4rOMOH6EZoIpOP-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=diamondThin;endFill=0;" parent="1" source="WbOcBk4rOMOH6EZoIpOP-126" target="WbOcBk4rOMOH6EZoIpOP-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,8 +100,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="283" y="330" />
-              <mxPoint x="283" y="710" />
-              <mxPoint x="243" y="710" />
+              <mxPoint x="283" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
