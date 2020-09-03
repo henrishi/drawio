@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T18:23:51.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.5" etag="I6lGymP8qawN4cVQQryF" type="github"><diagram id="wmqv1iFFO38fnpzEHn-s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-03T18:33:12.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Wx4m3eQBjo6j0XEKdlKq" version="13.6.5" type="github">
+  <diagram id="wmqv1iFFO38fnpzEHn-s" name="Page-1">
+    <mxGraphModel dx="503" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JsFcr4rtg8s_-A217rBF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-1" target="JsFcr4rtg8s_-A217rBF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-1" value="Receive push message&lt;br&gt;(N = 10M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-2" value="Click on link to monitoring&lt;br&gt;(N = 50k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-3" value="Open report&lt;br&gt;(N = 50k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-7" target="JsFcr4rtg8s_-A217rBF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-7" target="JsFcr4rtg8s_-A217rBF-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-749.952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-7" value="Open" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-780" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-11" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-780.0023809523809" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFcr4rtg8s_-A217rBF-12" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-750" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
