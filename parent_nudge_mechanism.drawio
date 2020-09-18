@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T22:32:20.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.10" etag="O9FlS-SKM57Tjepu93xY" type="github"><diagram id="-UJTk1UJx1AWDmk8OpdB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-18T22:41:46.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bma1MWdKC9ghGMrdeVsD" version="13.6.10" type="github">
+  <diagram id="-UJTk1UJx1AWDmk8OpdB" name="Page-1">
+    <mxGraphModel dx="603" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-2" value="Open report&lt;br&gt;(N = 100k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-3" value="Weekly push with &lt;b&gt;monitoring&lt;/b&gt; link&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-520" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-4" value="Weekly push&lt;br&gt;with &lt;b&gt;resource&lt;/b&gt; link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-610" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-5" value="Resource link +&amp;nbsp; monitoring link weekly pushes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF6666;dashed=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="-430" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-6" value="In-App Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-7" value="Offline Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-8" value="More time&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-644" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
