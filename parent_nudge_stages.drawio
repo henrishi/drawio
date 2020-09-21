@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T19:37:43.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="kQotlNEMnH34mfGnHKms" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T17:31:14.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JsOSmkEAVZwhbuyry_Lm" version="13.7.3" type="github">
   <diagram id="wmqv1iFFO38fnpzEHn-s" name="Page-1">
-    <mxGraphModel dx="786" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-1" target="JsFcr4rtg8s_-A217rBF-2">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JsFcr4rtg8s_-A217rBF-1" target="JsFcr4rtg8s_-A217rBF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-6" value="Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A09yIr3bGjbmGhFP6ExZ-2">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-6" value="Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A09yIr3bGjbmGhFP6ExZ-2" vertex="1" connectable="0">
           <mxGeometry x="0.0571" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-1">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsFcr4rtg8s_-A217rBF-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="-830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-5" value="Do not open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A09yIr3bGjbmGhFP6ExZ-3">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-5" value="Do not open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A09yIr3bGjbmGhFP6ExZ-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1158" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -25,22 +25,10 @@
         <mxCell id="JsFcr4rtg8s_-A217rBF-1" value="Receive push message linking to report (N = 10M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;strokeColor=#FF6666;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="375" y="-860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JsFcr4rtg8s_-A217rBF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JsFcr4rtg8s_-A217rBF-2" target="A09yIr3bGjbmGhFP6ExZ-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="-604" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-16Hgku7zGPm_oZAu_-D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-2" target="A09yIr3bGjbmGhFP6ExZ-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-4" value="Answer &lt;br&gt;embedded question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JsFcr4rtg8s_-A217rBF-15">
-          <mxGeometry x="-0.1515" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-7" value="Ignore embedded&lt;br&gt;question" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JsFcr4rtg8s_-A217rBF-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="-700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JsFcr4rtg8s_-A217rBF-2" value="Open report&lt;br&gt;(N = 100k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="JsFcr4rtg8s_-A217rBF-2" value="Open report&lt;br&gt;(N = 100k)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="375" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JsFcr4rtg8s_-A217rBF-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF6666;strokeWidth=2;" parent="1" vertex="1">
@@ -56,33 +44,27 @@
           <mxGeometry x="130" y="-710" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JsFcr4rtg8s_-A217rBF-33" value="Phase 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;fontColor=#8C8C8C;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-395" width="60" height="20" as="geometry" />
+          <mxGeometry x="130" y="-489" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A09yIr3bGjbmGhFP6ExZ-11" target="A09yIr3bGjbmGhFP6ExZ-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-16" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="205" y="-584" width="460" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-11" value="&lt;span&gt;&amp;nbsp;Are you satisfied with your child&#39;s learning? (N = 20K)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-590" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="205" y="-490" width="460" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;dashed=1;fillColor=#FFFBF0;" vertex="1" parent="A09yIr3bGjbmGhFP6ExZ-16">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;dashed=1;fillColor=#FFFBF0;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry width="460" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="JsFcr4rtg8s_-A217rBF-3" value="Weekly push with &lt;b&gt;monitoring&lt;/b&gt; link&amp;nbsp;&lt;br&gt;(N = 5k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
+        <mxCell id="JsFcr4rtg8s_-A217rBF-3" value="Weekly push with &lt;b&gt;monitoring&lt;/b&gt; link&amp;nbsp;&lt;br&gt;(N = 25k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry x="20" y="20" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JsFcr4rtg8s_-A217rBF-13" value="Weekly push&lt;br&gt;with &lt;b&gt;resource&lt;/b&gt; link&lt;br&gt;(N = 5k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
+        <mxCell id="JsFcr4rtg8s_-A217rBF-13" value="Weekly push&lt;br&gt;with &lt;b&gt;resource&lt;/b&gt; link&lt;br&gt;(N = 25k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry x="169" y="20" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-12" value="Resource link +&amp;nbsp; monitoring link weekly pushes&lt;br&gt;(N = 5k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF6666;dashed=1;strokeWidth=4;" vertex="1" parent="A09yIr3bGjbmGhFP6ExZ-16">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-12" value="Resource link +&amp;nbsp; monitoring link weekly pushes&lt;br&gt;(N = 25k)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF6666;dashed=1;strokeWidth=4;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry x="320" y="20" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-13" value="Hawthrone control:&lt;br&gt;weekly push with generic message and no link&lt;br&gt;(N = 2.5K)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="A09yIr3bGjbmGhFP6ExZ-16">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-13" value="Hawthrone control:&lt;br&gt;weekly push with generic message and no link&lt;br&gt;(N = 12.5K)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry x="90" y="120" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A09yIr3bGjbmGhFP6ExZ-14" value="Base control:&lt;br&gt;no push&lt;br&gt;(N = 2.5K)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;fontColor=#333333;" vertex="1" parent="A09yIr3bGjbmGhFP6ExZ-16">
+        <mxCell id="A09yIr3bGjbmGhFP6ExZ-14" value="Base control:&lt;br&gt;no push&lt;br&gt;(N = 12.5K)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;fontColor=#333333;" parent="A09yIr3bGjbmGhFP6ExZ-16" vertex="1">
           <mxGeometry x="234" y="120" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
