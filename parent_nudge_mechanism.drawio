@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T23:47:46.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qxfYO5gfC4Ql0Zf0qZbX" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T23:50:25.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="S3VKj76sYjk2W2y7qP6B" version="13.7.5" type="github">
   <diagram id="-UJTk1UJx1AWDmk8OpdB" name="Page-1">
-    <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
             <mxPoint x="780" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lr0t73V-42CUzRThfrZZ-9" value="Usage of In-App Learning Features" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="Lr0t73V-42CUzRThfrZZ-9" value="Usage of In-App Learning Features (in weakest subject)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="560" y="-567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lr0t73V-42CUzRThfrZZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Lr0t73V-42CUzRThfrZZ-10" target="Lr0t73V-42CUzRThfrZZ-14" edge="1">
@@ -118,8 +118,8 @@
         <mxCell id="bVrSGm5xhbMdktIABRzM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="bVrSGm5xhbMdktIABRzM-3" target="Lr0t73V-42CUzRThfrZZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVrSGm5xhbMdktIABRzM-3" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Efficiency measures&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 10px&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Post-experiment student survey: &quot;Do you agree with: I am a faster learner in math/English/Chinese?&quot; \ &quot;I find learning math/English/Chinese effortless?&quot;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Post-experiment parent survey: &quot;How would you rate your child&#39;s study efficiency in the past month?&quot;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=#FF6666;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="715" y="-840" width="250" height="150" as="geometry" />
+        <mxCell id="bVrSGm5xhbMdktIABRzM-3" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Efficiency measures&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 10px&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Post-experiment student survey: &quot;Do you agree with: I am a faster learner in math/English/Chinese?&quot; \ &quot;I find learning math/English/Chinese effortless?&quot; -- variance control with response in non-treatment subject&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Post-experiment parent survey: &quot;How would you rate your child&#39;s study efficiency in math/English/Chinese in the past month?&quot;&amp;nbsp;&amp;nbsp;-- variance control with response in non-treatment subject&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=#FF6666;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="715" y="-890" width="250" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
