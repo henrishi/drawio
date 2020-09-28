@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T23:50:25.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="S3VKj76sYjk2W2y7qP6B" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T23:51:07.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="BG-i0LTfpGwgSZMzBx3p" version="13.7.5" type="github">
   <diagram id="-UJTk1UJx1AWDmk8OpdB" name="Page-1">
     <mxGraphModel dx="1426" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bVrSGm5xhbMdktIABRzM-3" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Efficiency measures&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 10px&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;&lt;span&gt;Post-experiment student survey: &quot;Do you agree with: I am a faster learner in math/English/Chinese?&quot; \ &quot;I find learning math/English/Chinese effortless?&quot; -- variance control with response in non-treatment subject&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Post-experiment parent survey: &quot;How would you rate your child&#39;s study efficiency in math/English/Chinese in the past month?&quot;&amp;nbsp;&amp;nbsp;-- variance control with response in non-treatment subject&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeColor=#FF6666;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="715" y="-890" width="250" height="200" as="geometry" />
+          <mxGeometry x="665" y="-830" width="350" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
