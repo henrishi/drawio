@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T23:44:11.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="87DaQaOLvwS8E4KeNFGU" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T23:46:04.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="mgY9oKHMFOGstiZ9-Jnt" version="13.7.7" type="github">
   <diagram id="wmqv1iFFO38fnpzEHn-s" name="Page-1">
     <mxGraphModel dx="1426" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yDWuqftPPL2XFV_4qdqE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-897.5" width="610" height="317.5" as="geometry" />
+        <mxCell id="yDWuqftPPL2XFV_4qdqE-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;dashed=1;fillColor=#FDFFF7;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-897.5" width="580" height="317.5" as="geometry" />
         </mxCell>
         <mxCell id="A09yIr3bGjbmGhFP6ExZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JsFcr4rtg8s_-A217rBF-1" target="JsFcr4rtg8s_-A217rBF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="1260" y="-865" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1nqe7X7OOSDAjEZEZXh3-17" value="每周推送&lt;b&gt;错题本+讲练测&lt;/b&gt;组合&lt;br&gt;(N = 1M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF6666;dashed=1;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="-770" width="120" height="70" as="geometry" />
+          <mxGeometry x="1270" y="-760" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1nqe7X7OOSDAjEZEZXh3-18" value="霍桑控制组:&lt;br&gt;每周推送鼓励性文字，无链接&lt;br&gt;(N = 10K)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1125.98" y="-670" width="120" height="70" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="1nqe7X7OOSDAjEZEZXh3-19" value="纯控制组:&lt;br&gt;无推送&lt;br&gt;(N = 1M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1270" y="-670" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1nqe7X7OOSDAjEZEZXh3-20" value="每周推送&lt;b&gt;个性化推荐讲练测&lt;/b&gt;&lt;br&gt;(N = 1M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=4;dashed=1;strokeColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="1nqe7X7OOSDAjEZEZXh3-20" value="每周推送&lt;b&gt;个性化推荐讲练测&lt;/b&gt;&lt;br&gt;(N = 2M)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=4;dashed=1;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="1120.985" y="-760" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yDWuqftPPL2XFV_4qdqE-4" value="" style="group" vertex="1" connectable="0" parent="1">
