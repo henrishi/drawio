@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T20:06:13.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="-KwQWJoJefi4Z8ZzDz8E" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T20:14:13.051Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="Ih_rNSRkSChuhVb5q221" version="13.8.0" type="github">
   <diagram id="XRLAiwTjWuj6m0lgKd-L" name="Page-1">
-    <mxGraphModel dx="2253" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,61 +37,43 @@
         <mxCell id="PljOsR7fZy3H20qurfGT-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="PljOsR7fZy3H20qurfGT-23" vertex="1">
           <mxGeometry x="217.6625289290974" y="361.2921348314607" width="12.728802861350726" height="61.23595505617978" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-22" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-345" y="78" width="350" height="580" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#368DFF;" parent="1" vertex="1">
+          <mxGeometry x="-288" y="677" width="349.78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;align=left;" vertex="1" parent="PljOsR7fZy3H20qurfGT-22">
-          <mxGeometry y="414.0000000000001" width="348.5" height="142.66" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-1" value="&lt;font color=&quot;#fdfff7&quot;&gt;Top learning recommendations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#368DFF;" parent="1" vertex="1">
+          <mxGeometry x="-287.78461538461534" y="128" width="349.7846153846153" height="31.636363636363637" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry y="482.24719101123605" width="349.77908689248886" height="97.75280898876403" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-288" y="155" width="349.78" height="394" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-1" value="Top learning recommendations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="0.21538461538461537" width="349.7846153846153" height="31.636363636363637" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-6" value="&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Why we recommend these exercises for Ming?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Ming missed 50% of his questions in &quot;numbers greater than 100 million&quot; in last week&#39;s exam. He may have difficulty understanding the concept. These videos-exercise modules are designed to help him reinforce these concepts.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-267.7538461538462" y="173.61963636363635" width="312.9538461538461" height="133.6530909090909" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry y="32.58426966292134" width="349.77908689248886" height="521.3483146067415" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="14.02117820323997" y="277.9987640449438" width="18.409425625920466" height="260.67415730337075" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-6" value="&lt;p&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;Why we recommend these exercises for Ming?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Ming missed 50% of his questions in &quot;numbers greater than 100 million&quot; in last week&#39;s exam. He may have difficulty understanding the concept. These videos-exercise modules are designed to help him reinforce these concepts.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="20.24615384615384" y="45.61963636363636" width="312.9538461538461" height="133.6530909090909" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-5" value="learn-practice-assess module 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-258.2174079528719" y="277.9987640449438" width="257.7319587628865" height="78.20224719101124" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="302.02117820323997" y="149.9987640449438" width="18.409425625920466" height="260.67415730337075" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-7" value="learn-practice-assess module 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-258.2174079528719" y="369.2347191011236" width="257.7319587628865" height="78.20224719101124" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-4" value="Click here to see Ming&#39;s learning report from September" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="60.96730769230769" y="500.00090909090915" width="220.91730769230767" height="42.77236363636364" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-8" value="learn-practice-assess module 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-258.2174079528719" y="460.4706741573034" width="257.7319587628865" height="78.20224719101124" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-5" value="learn-practice-assess module 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="29.78259204712812" y="149.9987640449438" width="257.7319587628865" height="78.20224719101124" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="14.02117820323997" y="473.5043820224719" width="18.409425625920466" height="65.16853932584269" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-7" value="learn-practice-assess module 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="29.78259204712812" y="241.23471910112357" width="257.7319587628865" height="78.20224719101124" as="geometry" />
+        <mxCell id="3JirW67J5OosZr8UNJjr-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=5;align=left;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="547.1600000000001" width="350" height="130.84" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-8" value="learn-practice-assess module 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="29.78259204712812" y="332.4706741573034" width="257.7319587628865" height="78.20224719101124" as="geometry" />
+        <mxCell id="PljOsR7fZy3H20qurfGT-4" value="See Ming&#39;s learning report from September" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-230.0026923076923" y="622.0009090909091" width="220.91730769230767" height="42.77236363636364" as="geometry" />
         </mxCell>
-        <mxCell id="PljOsR7fZy3H20qurfGT-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="PljOsR7fZy3H20qurfGT-22" vertex="1">
-          <mxGeometry x="302.02117820323997" y="345.5043820224719" width="18.409425625920466" height="65.16853932584269" as="geometry" />
+        <mxCell id="3JirW67J5OosZr8UNJjr-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280.5" y="550.02" width="350" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-17" value="" style="group" vertex="1" connectable="0" parent="PljOsR7fZy3H20qurfGT-22">
-          <mxGeometry x="7.5" y="452.66" width="341" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-1" value="&lt;span&gt;Will you get Ming to spend 10 minutes on these today?&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="3JirW67J5OosZr8UNJjr-17">
-          <mxGeometry width="335.86" height="31.64" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-10" value="" style="group" vertex="1" connectable="0" parent="3JirW67J5OosZr8UNJjr-17">
-          <mxGeometry x="304.42999999999995" y="10.819999999999993" width="12.5" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=5;align=left;" vertex="1" parent="3JirW67J5OosZr8UNJjr-10">
-          <mxGeometry width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-9" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.check;fontSize=5;" vertex="1" parent="3JirW67J5OosZr8UNJjr-10">
-          <mxGeometry width="12.5" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-16" value="" style="group" vertex="1" connectable="0" parent="PljOsR7fZy3H20qurfGT-22">
-          <mxGeometry x="7.49999999999998" y="422.02" width="335.86" height="31.639999999999986" as="geometry" />
-        </mxCell>
-        <mxCell id="3JirW67J5OosZr8UNJjr-2" value="Do you find these useful for Ming&#39;s learning?" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;" vertex="1" parent="3JirW67J5OosZr8UNJjr-16">
+        <mxCell id="3JirW67J5OosZr8UNJjr-2" value="Do you find these useful for Ming&#39;s learning?" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="3JirW67J5OosZr8UNJjr-16">
           <mxGeometry width="335.86" height="31.64" as="geometry" />
         </mxCell>
         <mxCell id="3JirW67J5OosZr8UNJjr-11" value="" style="group" vertex="1" connectable="0" parent="3JirW67J5OosZr8UNJjr-16">
@@ -101,6 +83,21 @@
           <mxGeometry width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="3JirW67J5OosZr8UNJjr-13" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.check;fontSize=5;" vertex="1" parent="3JirW67J5OosZr8UNJjr-11">
+          <mxGeometry width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3JirW67J5OosZr8UNJjr-25" value="" style="group" vertex="1" connectable="0" parent="3JirW67J5OosZr8UNJjr-16">
+          <mxGeometry y="20.819999999999993" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3JirW67J5OosZr8UNJjr-1" value="&lt;span&gt;Will you get Ming to spend 10 minutes on these today?&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=none;" vertex="1" parent="3JirW67J5OosZr8UNJjr-25">
+          <mxGeometry width="335.86" height="31.64" as="geometry" />
+        </mxCell>
+        <mxCell id="3JirW67J5OosZr8UNJjr-10" value="" style="group" vertex="1" connectable="0" parent="3JirW67J5OosZr8UNJjr-25">
+          <mxGeometry x="304.42999999999995" y="10.819999999999993" width="12.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3JirW67J5OosZr8UNJjr-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=5;align=left;" vertex="1" parent="3JirW67J5OosZr8UNJjr-10">
+          <mxGeometry width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3JirW67J5OosZr8UNJjr-9" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.check;fontSize=5;" vertex="1" parent="3JirW67J5OosZr8UNJjr-10">
           <mxGeometry width="12.5" height="10" as="geometry" />
         </mxCell>
       </root>
