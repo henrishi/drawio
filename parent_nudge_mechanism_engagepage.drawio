@@ -1,110 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T20:17:54.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="4cmylQQTAXTapD21I1CE" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T20:39:01.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="5EetgkOokPPck3YHq1r4" version="13.8.0" type="github">
   <diagram id="zhd-Uvh-itd-zUCHIrJH" name="Page-1">
-    <mxGraphModel dx="1426" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-4" target="zPzuGnTjDfx3dbXrWhTj-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="-420" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-4" target="zPzuGnTjDfx3dbXrWhTj-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-47" value="Increased parental trust in recommendation system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-54">
+          <mxGeometry y="2" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-4" target="zPzuGnTjDfx3dbXrWhTj-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-48" value="Verify recommendation with statistics in report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-54">
+          <mxGeometry x="40" y="40" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-4" value="Open report" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFBF0;" vertex="1" parent="1">
-          <mxGeometry x="261.88" y="-650" width="126.25" height="60" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-50" value="Dispels doubt that the recommendations are generic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-54">
+          <mxGeometry x="40" y="120" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-7" target="zPzuGnTjDfx3dbXrWhTj-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="-364" />
-              <mxPoint x="440" y="-372" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-4" value="Answer commitment question" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="271.88" y="-668" width="126.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-7" target="zPzuGnTjDfx3dbXrWhTj-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="-364" />
-              <mxPoint x="440" y="-275" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-7" value="Explain reason for recommendation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270.005" y="-333" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-7" value="Weekly push with &lt;b&gt;monitoring&lt;/b&gt; link&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="260.005" y="-399" width="130" height="70" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-9" value="Too few recommended modules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="271.885" y="-585" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-9" target="zPzuGnTjDfx3dbXrWhTj-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="390" y="-537" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-9" value="Weekly push&lt;br&gt;with &lt;b&gt;resource&lt;/b&gt; link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="260.005" y="-570" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-11" target="zPzuGnTjDfx3dbXrWhTj-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-11" value="In-App Monitoring" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-402" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-13" target="zPzuGnTjDfx3dbXrWhTj-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-13" value="Offline Monitoring" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-15" target="zPzuGnTjDfx3dbXrWhTj-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-15" value="Parents Tutors the Child Offline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-17" target="zPzuGnTjDfx3dbXrWhTj-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-17" value="Usage of In-App Learning Features (in weakest subject)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-567" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-19" target="zPzuGnTjDfx3dbXrWhTj-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-19" value="Offline After-School Learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-485" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-21" target="zPzuGnTjDfx3dbXrWhTj-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="-449" />
-              <mxPoint x="440" y="-537" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-21" value="Weekly push&lt;br&gt;with &lt;b&gt;learn-practice-assess &lt;/b&gt;modules&amp;nbsp;link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="260.005" y="-484" width="130" height="70" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-21" value="Link to learning report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270.005" y="-415" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zPzuGnTjDfx3dbXrWhTj-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-23" target="zPzuGnTjDfx3dbXrWhTj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPzuGnTjDfx3dbXrWhTj-23" value="Increased &lt;br&gt;Student Effort" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-402" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="-475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zPzuGnTjDfx3dbXrWhTj-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zPzuGnTjDfx3dbXrWhTj-25" target="zPzuGnTjDfx3dbXrWhTj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPzuGnTjDfx3dbXrWhTj-25" value="Higher Learning Efficiency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-567" width="120" height="60" as="geometry" />
+          <mxGeometry x="1030" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zPzuGnTjDfx3dbXrWhTj-26" value="Increased Achievement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-485" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="-558" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zPzuGnTjDfx3dbXrWhTj-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="990" y="-640" width="60" height="30" as="geometry" />
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="-920" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-29" value="Text to explain reason for recommendation&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-28">
+          <mxGeometry width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-30" value="Include" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-28">
+          <mxGeometry x="10" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-31" value="Exclude" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-28">
+          <mxGeometry x="170" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="-631" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-33" value="Number of recommended modules" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-32">
+          <mxGeometry width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-34" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-32">
+          <mxGeometry x="10" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-35" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-32">
+          <mxGeometry x="90" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-36" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-32">
+          <mxGeometry x="170" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-37" value="18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-32">
+          <mxGeometry x="240" y="40" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="-510" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-39" value="Link to a report on the child&#39;s learning" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-38">
+          <mxGeometry width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-40" value="Include" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-38">
+          <mxGeometry x="10" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-41" value="Exclude" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-38">
+          <mxGeometry x="170" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="-748" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-43" value="Survey question: will you commit to getting your child to spend 10 minutes on these today?" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-42">
+          <mxGeometry width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-44" value="Include" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-42">
+          <mxGeometry x="10" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-45" value="Exclude" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-42">
+          <mxGeometry x="170" y="40" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-46" value="Too many recommended modules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeWidth=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="270.005" y="-503" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-51" value="Reads report" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="950" y="-820" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#6666FF;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-53">
+          <mxGeometry x="10" width="60" height="25.71428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-52" value="Measurable within our system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="zPzuGnTjDfx3dbXrWhTj-53">
+          <mxGeometry y="42.857142857142854" width="80" height="17.142857142857142" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-58" value="&lt;b&gt;Check yes &lt;/b&gt;for &quot;useful for learning?&quot; question" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-59" value="Makes commitment by checking yes for &quot;will you commit?&quot; question" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;fillColor=#f8cecc;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-668" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-61" value="Information overload" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-62" value="Low agency as a result of lack of choices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-63" value="&lt;b&gt;Do NOT check yes&lt;/b&gt; for &quot;useful for learning?&quot; question" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPzuGnTjDfx3dbXrWhTj-68" value="Increased &lt;b&gt;completion&lt;/b&gt; of recommended modules" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
