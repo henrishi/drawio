@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T02:19:01.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" version="13.8.2" etag="vqM57vt9BvCzk9KcdfZI" type="github"><diagram id="DKIm9ZA9fSDDE3J3opy0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T02:24:03.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="gkXFHlexzH_r_iZX9Xe6" version="13.8.2" type="github">
+  <diagram id="DKIm9ZA9fSDDE3J3opy0" name="Page-1">
+    <mxGraphModel dx="1580" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNCnAqLROZKqYvwdlPZE-5" target="gNCnAqLROZKqYvwdlPZE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-5" value="&lt;span&gt;家长浏览数学单次测评报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gNCnAqLROZKqYvwdlPZE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-6" value="&lt;span&gt;家长点击push链接&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gNCnAqLROZKqYvwdlPZE-7" target="gNCnAqLROZKqYvwdlPZE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-7" value="&lt;span&gt;点击推荐页面链接&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-8" value="&lt;h1&gt;进入页面逻辑&lt;/h1&gt;&lt;p&gt;家长进入页面可以通过1.单次报告下方的按钮，2. push推送的链接。这两种情况下家长都应该是登录态点击，不存在未登陆状态点击的情况。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="100" width="191" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gNCnAqLROZKqYvwdlPZE-9" value="打开推荐页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
