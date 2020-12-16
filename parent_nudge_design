@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T17:31:56.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qf9BFbqGtmZs14XcYS5k" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T17:35:01.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kaixYoHD0ApE5Nw-2s8W" version="13.10.0" type="github">
   <diagram id="9kw0mO2XZqRHTkTSrYz0" name="Page-1">
-    <mxGraphModel dx="786" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="695" y="277" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="551" y="164" width="175" height="36" as="geometry" />
+          <mxGeometry x="553" y="174" width="175" height="36" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-10">
           <mxGeometry y="26" width="175" height="10" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry x="15" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="194" y="212" width="219" height="38" as="geometry" />
+          <mxGeometry x="194" y="212" width="225" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="k94z_0Pb7mNIg170iiSW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-11">
+        <mxCell id="k94z_0Pb7mNIg170iiSW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-11">
           <mxGeometry y="27.444444444444446" width="219" height="10.555555555555555" as="geometry" />
         </mxCell>
-        <mxCell id="k94z_0Pb7mNIg170iiSW-13" value="Observe parent/student outcome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-11">
+        <mxCell id="k94z_0Pb7mNIg170iiSW-13" value="LPE features experiment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-11">
           <mxGeometry x="32.524752475247524" y="2.111111111111111" width="162.6237623762376" height="21.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="194" y="118" width="210" height="36" as="geometry" />
+          <mxGeometry x="196" y="128" width="210" height="36" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="k94z_0Pb7mNIg170iiSW-20">
           <mxGeometry y="26" width="210" height="10" as="geometry" />
@@ -56,16 +56,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-16" value="main" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="236" y="188" width="171" height="10" as="geometry" />
+          <mxGeometry x="238" y="198" width="171" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-17" value="LPE vs Generic experiment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="234" y="162" width="153" height="20" as="geometry" />
+          <mxGeometry x="236" y="172" width="153" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k94z_0Pb7mNIg170iiSW-17" target="k94z_0Pb7mNIg170iiSW-17">
-          <mxGeometry x="205" y="162" as="geometry" />
+          <mxGeometry x="207" y="172" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-30" value="pilot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="192" y="187" width="32" height="11" as="geometry" />
+          <mxGeometry x="194" y="197" width="32" height="11" as="geometry" />
         </mxCell>
         <mxCell id="k94z_0Pb7mNIg170iiSW-31" value="Chinese New Year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="277" width="40" height="40.5" as="geometry" />
