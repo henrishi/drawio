@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T17:06:52.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="qkAyX774LGB52YX0kqN5" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-18T17:08:17.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Xn0T0suOirgguZ3efFcF" version="14.3.2" type="github">
   <diagram id="kU2Bon3Jjfkuj31WxuBQ" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,20 @@
         <mxCell id="GiqqVYzLqmCzxt6aDNmL-1" value="Base phrase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="276" y="169" width="136" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GiqqVYzLqmCzxt6aDNmL-4" value="Baseline message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="170" width="110" height="20" as="geometry" />
+        <mxCell id="GiqqVYzLqmCzxt6aDNmL-4" value="&lt;b&gt;Baseline message&lt;/b&gt;&lt;br&gt;(msg_01)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="174" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GiqqVYzLqmCzxt6aDNmL-5" value="Customized messages&lt;br&gt;(msg_03, msg_05, msg_06, msg_07, msg_10)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="256" width="160" height="20" as="geometry" />
+        <mxCell id="GiqqVYzLqmCzxt6aDNmL-5" value="&lt;b&gt;Customized messages&lt;/b&gt;&lt;br&gt;(msg_03, msg_05, msg_06, msg_07, msg_10)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="260" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GiqqVYzLqmCzxt6aDNmL-6" value="Generic messages&lt;br&gt;(msg_04, msg_08, msg_09, msg_12, msg_13)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="343" width="160" height="20" as="geometry" />
+        <mxCell id="GiqqVYzLqmCzxt6aDNmL-6" value="&lt;b&gt;Generic messages&lt;br&gt;&lt;/b&gt;(msg_04, msg_08, msg_09, msg_12, msg_13)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="347" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GiqqVYzLqmCzxt6aDNmL-9" value="Reversed-order message&lt;br&gt;(msg_11)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="429" width="160" height="20" as="geometry" />
+        <mxCell id="GiqqVYzLqmCzxt6aDNmL-9" value="&lt;b&gt;Reversed-order message&lt;br&gt;&lt;/b&gt;(msg_11)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="433" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GiqqVYzLqmCzxt6aDNmL-12" value="Wording variation messages&lt;br&gt;(msg_02, msg_14)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="515" width="160" height="20" as="geometry" />
+        <mxCell id="GiqqVYzLqmCzxt6aDNmL-12" value="&lt;b&gt;Wording variation messages&lt;br&gt;&lt;/b&gt;(msg_02, msg_14)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="519" width="185" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GiqqVYzLqmCzxt6aDNmL-13" value="Variations of the&lt;br&gt;base phrase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="276" y="509" width="136" height="30" as="geometry" />
